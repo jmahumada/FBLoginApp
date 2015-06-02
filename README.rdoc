@@ -1,6 +1,10 @@
 == README
 
-$ gem install rails -v 4.2.0  # usando SQLITE3
+# app siguiendo tutorial de Word - usa SQLITE3
+APP: http://intense-forest-9346.herokuapp.com/
+
+
+$ gem install rails -v 4.2.0  
 $ rails _4.2.0_ new fbloginapp   
 
 GEMFILE:
@@ -49,3 +53,5 @@ APPCONTROLLER:
 
 ROUTES
   root 'application#hello'
+  
+  
